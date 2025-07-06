@@ -20,7 +20,7 @@ export LOGS=$(APPS_ROOT)/logs
 APPS=	tools nxmenu flxplorer pixil_keyboard nanobrick nxtetravex nxterminal imgv
 CLEAN_APPS= $(APPS:%=clean-%)
 
-EXTRA= 	12swap ntetris pipepanic \
+EXTRA= 	12swap ntetris \
 	madplay flchekers \
 	yareversi opendune linapple \
 	dosbox dillo gnuboy scummvm \
